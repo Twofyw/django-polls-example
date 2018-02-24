@@ -1,0 +1,13 @@
+[24/Feb/2018 11:50:31] "GET /admin/ HTTP/1.1" 200 4969
+Not Found: //
+[24/Feb/2018 11:50:35] "GET // HTTP/1.1" 404 2048
+Not Found: /
+[24/Feb/2018 11:50:38] "GET / HTTP/1.1" 404 2027
+[24/Feb/2018 11:50:42] "GET /polls/ HTTP/1.1" 200 310
+[24/Feb/2018 11:50:42] "GET /static/polls/style.css HTTP/1.1" 304 0
+[24/Feb/2018 11:50:42] "GET /static/polls/images/background.gif HTTP/1.1" 304 0
+[24/Feb/2018 11:55:59] "GET /polls/ HTTP/1.1" 200 310
+[24/Feb/2018 11:56:06] "GET /polls/ HTTP/1.1" 200 310
+[24/Feb/2018 11:56:16] "GET /polls/ HTTP/1.1" 200 310
+[24/Feb/2018 11:56:23] "GET /polls/ HTTP/1.1" 200 310
+[24/Feb/2018 11:57:02] "GET /polls/ HTTP/1.1" 200 310
